@@ -18,9 +18,9 @@ _italic text_
 
 this is lab03 repo
 
-1.asas
-2.sjdsd
+1. asas
+2. sjdsd
 
 
--hek
--what
+- hek
+- what
