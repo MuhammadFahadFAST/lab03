@@ -24,3 +24,7 @@ this is lab03 repo
 
 - hek
 - what
+
+1. Nested
+  - Lists
+     -Op
