@@ -28,4 +28,7 @@ this is lab03 repo
   5.Under
   6.the
   7.water
-
+-hello
+-how
+-are
+-you
