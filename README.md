@@ -31,3 +31,6 @@ this is lab03 repo
     
      - ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and
 raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+1. H<sub>2</sub>0
+2. a<sup>2</sup>+b<sup>2</sup>
