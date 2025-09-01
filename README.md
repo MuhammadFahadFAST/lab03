@@ -3,11 +3,11 @@
 ### Heading 03
 #### Heading 04
 
-***bold text***
+***bold text***\
 
-_italic text_
+_italic text_\
 
-~~crossed text~~
+~~crossed text~~\
 
-```coded text```
+```coded text```\
 this is lab03 repo
