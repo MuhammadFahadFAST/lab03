@@ -27,4 +27,4 @@ this is lab03 repo
 
 1. Nested
   - Lists
-     -Op
+     - Op
