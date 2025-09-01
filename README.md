@@ -20,15 +20,3 @@ this is lab03 repo
 
 1.asas
 2.sjdsd
-3.dksodjsodj
-  1.hello
-  2.guys
-  3.I 
-  4.am
-  5.Under
-  6.the
-  7.water
--hello
--how
--are
--you
