@@ -11,7 +11,7 @@ _italic text_
 
 ```coded text```
 
-[hello this a link](www.youtube.com)
+[hello this a link](https://www.youtube.com/)
 
 this is lab03 repo
 
